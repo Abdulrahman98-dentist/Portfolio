@@ -4,22 +4,22 @@
 Bachelor's Degree in Dental Medicine
  2016 – 2021
  ### Work Experince 
--Second Operator
+- Second Operator
   Modern dental clinic            |     3/2022 - 7/2022
 
--Operator
+- Operator
   Noor el-islam charity clinics   |    9/2022 - 3/2024  
 
--Operator
+- Operator
   El-shefaa medical center        |     11/2022 - 2/2023
 
--Operator
+- Operator
   Bright smile dental clinic      |      2/2023 - 7/2023
 
--Operator
+- Operator
   Diamond dental clinic           |     8/2022 - 7/2023
 
--Operator
+- Operator
   El-fajr medical center          |      5/2024 - Present
 
  ### Dental Expertise
