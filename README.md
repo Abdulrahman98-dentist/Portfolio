@@ -22,7 +22,8 @@ Bachelor's Degree in Dental Medicine
 - Operator
   > El-fajr medical center          |      5/2024 - Present
 
-### Dental Expertise
+### Dental expertise
+
  - Endodotics
  - Restorative
  - Aesthetics
