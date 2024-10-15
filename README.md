@@ -8,7 +8,7 @@ Bachelor's Degree in Dental Medicine
   Modern dental clinic            |     3/2022 - 7/2022
 
 - Operator
-  Noor el-islam charity clinics   |    9/2022 - 3/2024  
+   > Noor el-islam charity clinics   |    9/2022 - 3/2024  
 
 - Operator
   El-shefaa medical center        |     11/2022 - 2/2023
