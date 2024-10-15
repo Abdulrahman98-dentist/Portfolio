@@ -3,6 +3,7 @@
 ### Education
 Bachelor's Degree in Dental Medicine
  2016 – 2021
+ 
  ### Work Experince 
 - Second Operator
    > Modern dental clinic            |     3/2022 - 7/2022
