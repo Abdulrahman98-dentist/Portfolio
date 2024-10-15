@@ -1,62 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - Dental Portfolio</title>
-  <link rel="stylesheet" href="styles.css"> </head>
-<body>
-  <header>
-    <h1>Your Name</h1>
-    <nav>
-      <ul>
-        <li><a href="#about">About</a></li>
-        <li><a   
- href="#services">Services</a></li>
-        <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
-  </header>   
+# General Practioner Dentist
+
+### Education
+Bachelor's Degree in Dental Medicine
+ 2016 – 2021
+### Work experince
+- Second Operator
+   > Modern dental clinic            |     3/2022 - 7/2022
+
+- Operator
+   > Noor el-islam charity clinics   |    9/2022 - 3/2024  
+
+- Operator
+   > El-shefaa medical center        |     11/2022 - 2/2023
+
+- Operator
+   > Bright smile dental clinic      |      2/2023 - 7/2023
+
+- Operator
+  > Diamond dental clinic           |     8/2022 - 7/2023
+
+- Operator
+  > El-fajr medical center          |      5/2024 - Present
 
 
-  <section id="about">
-    <h2>About Me</h2>
-    <img src="your-profile-picture.jpg" alt="Your Profile Picture">
-    <p>Briefly describe your dental experience, qualifications, and approach to patient care.</p>
-  </section>
+### Expertise
 
-  <section id="services">
-    <h2>Services</h2>
-    <ul>
-      <li>General Dentistry</li>
-      <li>Cosmetic Dentistry</li>
-      <li>Dental Implants</li>
-      <li>Orthodontics</li>
-      </ul>
-  </section>
+ - Endodotics
+ - Restorative
+ - Aesthetics
+ - Pedodontics
+ - Minor surgery
+ - Fixed prosthesis
 
-  <section id="portfolio">
-    <h2>Portfolio</h2>
-    <div class="gallery">
-      <img src="photo/Abdulrahman .jpg" width="100px" height="100px" alt="Portfolio Image 1">
-      <img src="portfolio-image2.jpg" alt="Portfolio   
- Image 2">   
-
-      </div>
-  </section>
-
-  <section id="contact">
-    <h2>Contact</h2>
-    <p>Phone: Your Phone Number</p>
-    <p>Email: Your Email Address</p>
-    <p>Address: Your Practice Address</p>
-  </section>
-
-  <footer>
-    <p>&copy; 2023 Your Name. All rights reserved.</p>
-  </footer>
-
-  <script src="script.js"></script>
-</body>
-</html>
+### Skills
+- Management
+- Communication
+- Photography
+- Photo & video Editing
